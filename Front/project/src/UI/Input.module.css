@@ -1,0 +1,36 @@
+.container {
+  padding: 5px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  font-size: 18px;
+  align-items: center;
+}
+
+.field {
+  width: 250px;
+  font-size: 20px;
+  border-radius: 3px;
+  padding: 4px;
+}
+
+.field:focus {
+  outline-color: rgba(49, 123, 176, 0.627);
+}
+
+.label {
+  color: white;
+}
+
+.error {
+  color: rgb(255, 0, 0);
+  background-color: #0d224d9e;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 1px;
+  max-width: 380px;
+	width: 100%;
+  text-align: center;
+}
+

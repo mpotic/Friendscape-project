@@ -1,0 +1,31 @@
+.cardStyle {
+  width: fit-content;
+  min-width: 350px;
+}
+
+.btnStyle {
+  width: fit-content;
+  align-self: center;
+  margin-top: 10px;
+}
+
+.select {
+  font-size: 18px;
+  width: 200px;
+  align-self: center;
+  padding: 2px;
+  font-family: 'JetBrains Mono', monospace;
+  margin-top: 15px;
+  border-radius: 4px;
+  outline: none;
+  background-color: #0d224da4;
+  color: white;
+  border: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}

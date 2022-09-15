@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  font-size: 22px;
+  color: white;
+  width: fit-content;
+  margin: auto;
+	margin-top: 100px;
+}
+
+.cardStyle {
+  width: fit-content;
+  min-width: 350px;
+}
+
+.btnStyle {
+  width: fit-content;
+  align-self: center;
+  margin-top: 10px;
+}
+
+.select {
+  font-size: 18px;
+  width: 200px;
+  align-self: center;
+  padding: 2px;
+  font-family: 'JetBrains Mono', monospace;
+  margin-top: 15px;
+  border-radius: 4px;
+  outline: none;
+  background-color: #0d224da4;
+  color: white;
+  border: none;
+}
+
+.searchDiv {
+	display: flex;
+	gap: 10px;
+  position: fixed;
+  margin-top: -90px;
+  margin-bottom: 125px;
+	z-index: 100;
+}
+
+.searchInput {
+  border-radius: 4px;
+  padding: 4px 8px;
+  width: 150px;
+	margin-left: -30px;
+	font-size: 22px;
+  font-family: 'JetBrains Mono', monospace;
+	border: none;
+}
+
+.searchLabel {
+	all: none;
+}

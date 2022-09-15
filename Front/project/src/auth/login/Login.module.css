@@ -1,0 +1,22 @@
+.loginCard {
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loginButton {
+  margin-top: 15px;
+  align-self: center;
+}
+
+.registerNow {
+  margin-top: 5px;
+  color: white;
+  align-self: center;
+  text-align: center;
+}
+
+.registerNow:hover {
+  color: rgb(156, 230, 255);
+  text-decoration: underline;
+}

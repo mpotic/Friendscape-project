@@ -1,0 +1,13 @@
+.container{
+	display: flex;
+	gap: 50px;
+}
+
+.name{
+	width: 70px;
+	text-align: left;
+}
+
+.value{
+	text-align: left;
+}

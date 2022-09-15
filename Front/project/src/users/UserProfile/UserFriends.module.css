@@ -1,0 +1,22 @@
+.profileInfo {
+  align-self: center;
+  background-color: #0d224d9a;
+  margin-bottom: 10px;
+  padding: 6px;
+  font-size: 26px;
+  font-weight: bold;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.466);
+  border-radius: 6px;
+}
+
+.btnStyle {
+  width: fit-content;
+  align-self: center;
+  margin-top: 10px;
+}
+
+.cardStyle {
+  width: fit-content;
+	align-self: center;
+  min-width: 350px;
+}
