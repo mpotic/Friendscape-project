@@ -16027,3 +16027,9 @@
 2022-09-11 13:46:32.382 +02:00 [INF] Returning person info!
 2022-09-11 13:46:34.054 +02:00 [INF] Friends have been found!
 2022-09-11 13:46:34.055 +02:00 [INF] Returning poeple info!
+2022-09-15 14:04:06.744 +02:00 [INF] Invalid password!
+2022-09-15 14:04:09.391 +02:00 [INF] Invalid password!
+2022-09-15 14:04:12.291 +02:00 [INF] User logged in successfully!
+2022-09-15 14:04:12.448 +02:00 [INF] Returning person info!
+2022-09-15 14:04:12.732 +02:00 [INF] Friends have been found!
+2022-09-15 14:04:12.733 +02:00 [INF] Returning poeple info!
